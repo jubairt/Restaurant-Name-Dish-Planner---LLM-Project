@@ -18,7 +18,7 @@ Welcome to the **AI Restaurant Name & Menu Generator** — a fun and creative to
 
 ---
 
-## 🧠 Tech Stack
+## ⚙️ Tech Stack
 
 - **Streamlit** – UI interface
 - **LangChain** – LLM prompt chaining
@@ -27,7 +27,7 @@ Welcome to the **AI Restaurant Name & Menu Generator** — a fun and creative to
 
 ---
 
-## 🧪 How It Works
+## 🔄 How It Works
 
 ### 1. User picks a cuisine (e.g., "Indian").
 
@@ -80,7 +80,7 @@ secret_key.py
 
 ---
 
-## 🧠 What I Learned
+## 🪄 What I Learned
 
 - LangChain’s `PromptTemplate` and chaining
 - Streamlit for LLM UIs
@@ -90,7 +90,7 @@ secret_key.py
   
 ---
 
-### ✅ Conclusion
+### 🏁 Conclusion
 
 Through this project, I learned how to integrate Large Language Models (LLMs) like **Mistral-7B** using the `langchain` framework to build an end-to-end AI application. I practiced **prompt engineering**, designed **modular LLM chains**, and created a clean and interactive **web UI using Streamlit**. 
 
