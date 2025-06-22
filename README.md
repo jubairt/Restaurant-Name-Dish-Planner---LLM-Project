@@ -1,4 +1,4 @@
-# 🍽️ Restaurant Name & Menu Generator
+# 🍽️ Restaurant Name & Dish Planner
 
 This is a simple and fun AI-powered Streamlit web app that generates a **fancy restaurant name** and a **list of traditional dishes** based on the selected cuisine.
 
