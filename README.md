@@ -1,6 +1,6 @@
 # 🍽️ AI Restaurant Name & Menu Generator
 
-![App Screenshot](project_screenshot.png)
+![App Screenshot](Web_Interface.png)
 
 Welcome to the **AI Restaurant Name & Menu Generator** — a fun and creative tool that uses the power of **LLMs (Large Language Models)** to suggest **fancy restaurant names** and a **menu of traditional dishes** based on the cuisine you choose. Built using **LangChain**, **Together AI (Mistral-7B)**, and **Streamlit**.
 
